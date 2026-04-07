@@ -1,6 +1,3 @@
 streamlit
 groq
 python-dotenv
-fastapi
-uvicorn
-pydantic
