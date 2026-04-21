@@ -33,6 +33,11 @@ An intelligent chatbot designed to answer college-related queries using a **Retr
 
 ---
 
+## Output
+
+
+![Chatbot](chatbot-image.png)
+
 ##  Use Case
 
 This chatbot helps students quickly get information about:
